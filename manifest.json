@@ -1,0 +1,10 @@
+{
+  "name": "Stride Training Planner",
+  "short_name": "Stride",
+  "description": "Your weekly training agenda and progress tracker.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#18251f",
+  "icons": []
+}
